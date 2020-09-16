@@ -10,6 +10,7 @@ I wrote the code in the sass directory and package.json. The other files were pr
 - Sass variables
 - BEM notation
 - responsive images in HTML and CSS
+- responsive design
 - setting up build process with npm scripts
 
 ## 🚀 Getting Started
